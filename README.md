@@ -1,5 +1,4 @@
 # lab2-sec
-# 🔐 Rapport de TP — Rooting Android, Verified Boot & Sécurité Mobile
  
 > **Cours :** Sécurité des applications mobiles
 > **Auteur :** *AIT OURAJLI Mohamed*
@@ -7,30 +6,6 @@
 > **Établissement :** ENSA de Marrakech
 > **Environnement :** Android Studio — AVD (émulateur)
  
----
- 
-## 📑 Table des matières
- 
-1. [Étape 1 — Obtenir les droits root sur l'AVD](#étape-1--obtenir-les-droits-root-sur-lavd)
-2. [Étape 2 — Fiche de périmètre](#étape-2--fiche-de-périmètre)
-3. [Étape 3 — Initialisation d'un AVD vierge](#étape-3--initialisation-dun-avd-vierge)
-4. [Étape 4 — Déploiement de l'application de test](#étape-4--déploiement-de-lapplication-de-test)
-5. [Étape 5 — Définition de 3 scénarios fonctionnels](#étape-5--définition-de-3-scénarios-fonctionnels)
-6. [Étape 6 — Vue d'ensemble de la sécurité Android](#étape-6--vue-densemble-de-la-sécurité-android)
-7. [Étape 7 — Verified Boot](#étape-7--verified-boot)
-8. [Étape 8 — AVB (Android Verified Boot)](#étape-8--avb-android-verified-boot)
-9. [Étape 9 — Qu'est-ce que le rooting ?](#étape-9--quest-ce-que-le-rooting-)
-10. [Étape 10 — Utilité en contexte de laboratoire](#étape-10--utilité-en-contexte-de-laboratoire)
-11. [Étape 11 — Matrice des risques](#étape-11--matrice-des-risques)
-12. [Étape 12 — Contre-mesures](#étape-12--contre-mesures)
-13. [Étape 13 — OWASP MASVS](#étape-13--owasp-masvs)
-14. [Étape 14 — OWASP MASTG](#étape-14--owasp-mastg)
-15. [Étape 15 — Récapitulatif des commandes](#étape-15--récapitulatif-des-commandes)
-16. [Étape 16 — Fiche de traçabilité environnement](#étape-16--fiche-de-traçabilité-environnement)
-17. [Étape 17 — Réinitialisation de l'AVD](#étape-17--réinitialisation-de-lavd)
-18. [Étape 18 — Réinitialisation du device de labo](#étape-18--réinitialisation-du-device-de-labo)
-19. [Étape 19 — Checklist de clôture](#étape-19--checklist-de-clôture)
----
  
 ## Étape 1 — Obtenir les droits root sur l'AVD
  
